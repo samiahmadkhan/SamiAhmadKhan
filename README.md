@@ -44,7 +44,7 @@
 
 <!-- RestAssured -->
 <a href="https://rest-assured.io/" target="_blank" rel="noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/12953469" alt="RestAssured" width="40" height="40"/>
+    <img src="![rest-assured-logo-green](https://github.com/samiahmadkhan/SamiAhmadKhan/assets/39372318/1874bbf6-6fba-4306-b94a-7bd8f24d5d51)" alt="RestAssured" width="40" height="40"/>
 </a>
 
 <!-- SoapUI -->
