@@ -92,7 +92,7 @@
 </a>
 
 <!-- TOSCA -->
-<a href="https://www.tricentis.com/products/tosca/" target="_blank" rel="noreferrer">
+<a href="https://www.tricentis.com/products/automate-continuous-testing-tosca" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/samiahmadkhan/SamiAhmadKhan/main/tosca.webp" alt="TOSCA" width="40" height="40"/>
 </a>
 
