@@ -28,6 +28,7 @@
    
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> </a>
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="60"/> </a> 
+<a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://github.com/samiahmadkhan/SamiAhmadKhan/blob/main/selenium.png" alt="selenium" width="60" height="60"/> </a>
 <!-- BDD with Cucumber -->
  <a href="https://cucumber.io/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/cucumber.svg" alt="Cucumber" width="60" height="60"/>
@@ -58,7 +59,6 @@
     <img src="https://github.com/samiahmadkhan/SamiAhmadKhan/blob/main/images-2.png" alt="ReadyAPI" width="60" height="60"/>
 </a>
  
-<a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886660cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="60" height="60"/> </a>
 
 <!-- JIRA -->
 <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
