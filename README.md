@@ -35,7 +35,7 @@
 
 <!-- TestNG framework -->
 <a href="https://testng.org" target="_blank" rel="noreferrer">
-    <img src="https://github.com/samiahmadkhan/SamiAhmadKhan/blob/main/kisspng-testng-logo-software-testing-software-framework-co-udemy-1-free-testng-all-in-one-crash-cours-5b75214eece027.0299854815346028949703.jpg" alt="TestNG" width="60" height="60"/>
+    <img src="https://github.com/samiahmadkhan/SamiAhmadKhan/blob/main/kisspng-testng-logo-software-testing-software-framework-co-udemy-1-free-testng-all-in-one-crash-cours-5b75214eece027.0299854815344028949703.jpg" alt="TestNG" width="60" height="60"/>
 </a>
 
 <!-- Postman -->
@@ -58,7 +58,6 @@
     <img src="https://github.com/samiahmadkhan/SamiAhmadKhan/blob/main/images-2.png" alt="ReadyAPI" width="60" height="60"/>
 </a>
  
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="60" height="60"/> </a>
 <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886660cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="60" height="60"/> </a>
 
 <!-- JIRA -->
