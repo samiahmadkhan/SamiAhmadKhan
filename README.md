@@ -32,29 +32,28 @@
 </a>
 
 <!-- TestNG framework -->
-<a href="https://testng.org/doc/" target="_blank" rel="noreferrer">
-    <img src="![kisspng-testng-logo-software-testing-software-framework-co-udemy-1-free-testng-all-in-one-crash-cours-5b75214eece027 0299854815344028949703](https://github.com/samiahmadkhan/SamiAhmadKhan/assets/39372318/a45380b6-5450-4033-9c83-a915deed1558)
-" alt="TestNG" width="40" height="40"/>
+<a href="https://testng.org" target="_blank" rel="noreferrer">
+    <img src="https://github.com/samiahmadkhan/SamiAhmadKhan/blob/main/kisspng-testng-logo-software-testing-software-framework-co-udemy-1-free-testng-all-in-one-crash-cours-5b75214eece027.0299854815344028949703.jpg" alt="TestNG" width="40" height="40"/>
 </a>
 
 <!-- Postman -->
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
-    <img src="https://blog.postman.com/wp-content/uploads/2018/10/Postman-logo.png" alt="Postman" width="40" height="40"/>
+    <img src="https://github.com/samiahmadkhan/SamiAhmadKhan/blob/main/png-transparent-postman-hd-logo-thumbnail.png" alt="Postman" width="40" height="40"/>
 </a>
 
 <!-- RestAssured -->
 <a href="https://rest-assured.io/" target="_blank" rel="noreferrer">
-    <img src="![rest-assured-logo-green](https://github.com/samiahmadkhan/SamiAhmadKhan/assets/39372318/1874bbf6-6fba-4306-b94a-7bd8f24d5d51)" alt="RestAssured" width="40" height="40"/>
+    <img src="https://github.com/samiahmadkhan/SamiAhmadKhan/blob/main/19369327.png" alt="RestAssured" width="40" height="40"/>
 </a>
 
 <!-- SoapUI -->
 <a href="https://www.soapui.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.soapui.org/wp-content/uploads/soapui-logo-2x.png" alt="SoapUI" width="40" height="40"/>
+    <img src="https://github.com/samiahmadkhan/SamiAhmadKhan/blob/main/images.png" alt="SoapUI" width="40" height="40"/>
 </a>
 
 <!-- ReadyAPI -->
 <a href="https://www.smartbear.com/product/readyapi/overview/" target="_blank" rel="noreferrer">
-    <img src="https://smartbear-software.github.io/readyapi-plugin-for-jenkins/img/logo.svg" alt="ReadyAPI" width="40" height="40"/>
+    <img src="https://github.com/samiahmadkhan/SamiAhmadKhan/blob/main/images-2.png" alt="ReadyAPI" width="40" height="40"/>
 </a>
 
 
