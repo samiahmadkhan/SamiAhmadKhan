@@ -24,10 +24,12 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a>
-
+<p align="left"> 
+   
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
 <!-- BDD with Cucumber -->
-<a href="https://cucumber.io/" target="_blank" rel="noreferrer">
+ <a href="https://cucumber.io/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/cucumber.svg" alt="Cucumber" width="40" height="40"/>
 </a>
 
@@ -55,7 +57,52 @@
 <a href="https://www.smartbear.com/product/readyapi/overview/" target="_blank" rel="noreferrer">
     <img src="https://github.com/samiahmadkhan/SamiAhmadKhan/blob/main/images-2.png" alt="ReadyAPI" width="40" height="40"/>
 </a>
+ 
+<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
+<a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a>
 
+<!-- JIRA -->
+<a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
+    <img src="https://wac-cdn.atlassian.com/assets/img/favicons/atlassian/favicon-32x32.png" alt="JIRA" width="40" height="40"/>
+</a>
+
+<!-- Jenkins -->
+<a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
+    <img src="https://www.jenkins.io/images/226px-Jenkins_logo.svg.png" alt="Jenkins" width="40" height="40"/>
+</a>
+
+<!-- qTest -->
+<a href="https://www.tricentis.com/products/unified-test-management-qtest" target="_blank" rel="noreferrer">
+    <img src="https://github.com/samiahmadkhan/SamiAhmadKhan/blob/main/qTest.png" alt="qTest" width="40" height="40"/>
+</a>
+
+<!-- Grafana -->
+<a href="https://grafana.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/samiahmadkhan/SamiAhmadKhan/blob/main/grafana_logo_icon_171048.png" alt="Grafana" width="40" height="40"/>
+</a>
+
+<!-- Confluence -->
+<a href="https://www.atlassian.com/software/confluence" target="_blank" rel="noreferrer">
+    <img src="https://github.com/samiahmadkhan/SamiAhmadKhan/blob/main/confluence.jpeg" alt="Confluence" width="40" height="40"/>
+</a>
+
+<!-- Bitbucket -->
+<a href="https://www.atlassian.com/software/bitbucket" target="_blank" rel="noreferrer">
+    <img src="https://wac-cdn.atlassian.com/assets/img/favicons/bitbucket/favicon-32x32.png" alt="Bitbucket" width="40" height="40"/>
+</a>
+
+<!-- TOSCA -->
+<a href="https://www.tricentis.com/products/tosca/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/samiahmadkhan/SamiAhmadKhan/main/tosca.webp" alt="TOSCA" width="40" height="40"/>
+</a>
+
+<!-- TestComplete -->
+<a href="https://smartbear.com/product/testcomplete/overview/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/samiahmadkhan/SamiAhmadKhan/blob/main/TC.png" alt="TestComplete" width="40" height="40"/>
+</a>
+
+
+<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
 
 </p>
 
