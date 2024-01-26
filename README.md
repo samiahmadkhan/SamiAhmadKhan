@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on Personal Project [Selenium Java: BDD with Cucumber Framework](https://github.com/samiahmadkhan/Sami_SauceDemo_BDD)
 
-- 🌱 I’m currently learning **Appium,IOS and Android Automation**
+- 🌱 I’m currently learning **Appium: IOS and Android Automation**
 
 - 👨‍💻 All of my Personal projects are available at [https://github.com/samiahmadkhan?tab=repositories](https://github.com/samiahmadkhan?tab=repositories)
 
@@ -24,6 +24,40 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a>
+
+<!-- BDD with Cucumber -->
+<a href="https://cucumber.io/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/cucumber.svg" alt="Cucumber" width="40" height="40"/>
+</a>
+
+<!-- TestNG framework -->
+<a href="https://testng.org/doc/" target="_blank" rel="noreferrer">
+    <img src="![kisspng-testng-logo-software-testing-software-framework-co-udemy-1-free-testng-all-in-one-crash-cours-5b75214eece027 0299854815344028949703](https://github.com/samiahmadkhan/SamiAhmadKhan/assets/39372318/a45380b6-5450-4033-9c83-a915deed1558)
+" alt="TestNG" width="40" height="40"/>
+</a>
+
+<!-- Postman -->
+<a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+    <img src="https://blog.postman.com/wp-content/uploads/2018/10/Postman-logo.png" alt="Postman" width="40" height="40"/>
+</a>
+
+<!-- RestAssured -->
+<a href="https://rest-assured.io/" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/12953469" alt="RestAssured" width="40" height="40"/>
+</a>
+
+<!-- SoapUI -->
+<a href="https://www.soapui.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.soapui.org/wp-content/uploads/soapui-logo-2x.png" alt="SoapUI" width="40" height="40"/>
+</a>
+
+<!-- ReadyAPI -->
+<a href="https://www.smartbear.com/product/readyapi/overview/" target="_blank" rel="noreferrer">
+    <img src="https://smartbear-software.github.io/readyapi-plugin-for-jenkins/img/logo.svg" alt="ReadyAPI" width="40" height="40"/>
+</a>
+
+
+</p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samiahmadkhan&show_icons=true&locale=en&layout=compact" alt="samiahmadkhan" /></p>
