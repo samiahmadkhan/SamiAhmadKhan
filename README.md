@@ -18,68 +18,6 @@
 
 - ⚡ Fun fact **Youtuber, Artist**
 
- <h1 align="left">Professional Experience</h1>
-<p align="left"> 
-   
-- ⚡Current Employee: **Think Future Technologies**
-
-
-  **Duration:**  Dec 2023 - Current  
-  **Domain:**  OTT Platform, for Web  
-  **Role:**  Senior Automation Engineer L2  
-  **Project:**  Waterfall Project
-  **Project Description:**  Involved in Automation Web Development of the OTT Platform for Web Application, fixing     existing issues.
-
-  **Responsibilities:**
-
-  **>Involved in Automation Development using Selenium WebDriver with TestNG framework following Page Object Model approach**
-
-   **>Involved in creating new Test Cases of OTT Platform for Web**
-
-   **Involved in Regression of Existing Scripts and maintaining them**
-
-   **UpdatingExisting testcases based on Functionality changes**
-
-   
-- ⚡Previous Employee: **HCL Technology**
-
-  **Duration:**  Sept 2021- Oct 2023  
-  **Domain:**  Investment and Insurance  
-  **Role:**  Senior Automation Engineer  
-  **Project:**  Agile Project
-  **Project Description:**  Worked on multiple Agile Project where i was handling responsibility of complete Automation of Web Application
-
-  **Responsibilities:**
-  
-     **>Involved in all the Automation related activities like Automation Development using Selenium Webdriver using   BDD with Cucmber framework, End to end Regression , Smoke Testing for SIT and STAGE Environment**
-  
-     **>API Automation with ReadyAPI**
-  
-     **>Maintained complete suite using CI tool: Jenkins**
-
-     **>Used TOSCA for Automaton in some projects**
-
-     **>Given Demo to stake holders in multiple Sprints describing them functionality ad its Live demo**
-
-- ⚡Other Employee: **Bravura Solutions**
-
-  **Duration:**  April 2018-Aug 2021  
-  **Domain:**   Wealth Management  
-  **Role:**  Test Analyst  
-  **Project:**  Waterfall Project
-  **Project Description:** I worked on multiple different projects overall where i was involved in all Automation related activities , maintenance of scripts and Release activities
-
-  **Responsibilities:**
-
-     **>Involved Automation Development using Selenium Webdriver with JAVA following different frameworks like TestNG, BDD process using Cucumber Framework in a Page Object Model Approach**
-  
-     **>Done API Automation using SOAPUI mostly for SOAP Web Services**
-  
-     **>Communicated with BA to discuss Features and the Scenarios used in Web Application**
-  
-     **>Maintained the Automated Test Cases on Jenkins in parallel**
-  
-
 <h1 align="left">Connect with me:</h1>
 <p align="left">
 <a href="https://www.linkedin.com/in/sami-ahmad-khan-08b5b8130/?jobid=1234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sami-ahmad-khan-08b5b8130/" height="30" width="40" /></a>
@@ -169,3 +107,66 @@
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samiahmadkhan&show_icons=true&locale=en&layout=compact" alt="samiahmadkhan" /></p>
+
+
+ <h1 align="left">Professional Experience</h1>
+<p align="left"> 
+   
+- ⚡Current Employee: **Think Future Technologies**
+
+
+  **Duration:**  Dec 2023 - Current  
+  **Domain:**  OTT Platform, for Web  
+  **Role:**  Senior Automation Engineer L2  
+  **Project:**  Waterfall Project
+  **Project Description:**  Involved in Automation Web Development of the OTT Platform for Web Application, fixing     existing issues.
+
+  **Responsibilities:**
+
+  **>Involved in Automation Development using Selenium WebDriver with TestNG framework following Page Object Model approach**
+
+   **>Involved in creating new Test Cases of OTT Platform for Web**
+
+   **Involved in Regression of Existing Scripts and maintaining them**
+
+   **UpdatingExisting testcases based on Functionality changes**
+
+   
+- ⚡Previous Employee: **HCL Technology**
+
+  **Duration:**  Sept 2021- Oct 2023  
+  **Domain:**  Investment and Insurance  
+  **Role:**  Senior Automation Engineer  
+  **Project:**  Agile Project
+  **Project Description:**  Worked on multiple Agile Project where i was handling responsibility of complete Automation of Web Application
+
+  **Responsibilities:**
+  
+     **>Involved in all the Automation related activities like Automation Development using Selenium Webdriver using   BDD with Cucmber framework, End to end Regression , Smoke Testing for SIT and STAGE Environment**
+  
+     **>API Automation with ReadyAPI**
+  
+     **>Maintained complete suite using CI tool: Jenkins**
+
+     **>Used TOSCA for Automaton in some projects**
+
+     **>Given Demo to stake holders in multiple Sprints describing them functionality ad its Live demo**
+
+- ⚡Other Employee: **Bravura Solutions**
+
+  **Duration:**  April 2018-Aug 2021  
+  **Domain:**   Wealth Management  
+  **Role:**  Test Analyst  
+  **Project:**  Waterfall Project
+  **Project Description:** I worked on multiple different projects overall where i was involved in all Automation related activities , maintenance of scripts and Release activities
+
+  **Responsibilities:**
+
+     **>Involved Automation Development using Selenium Webdriver with JAVA following different frameworks like TestNG, BDD process using Cucumber Framework in a Page Object Model Approach**
+  
+     **>Done API Automation using SOAPUI mostly for SOAP Web Services**
+  
+     **>Communicated with BA to discuss Features and the Scenarios used in Web Application**
+  
+     **>Maintained the Automated Test Cases on Jenkins in parallel**
+  
