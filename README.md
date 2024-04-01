@@ -6,9 +6,11 @@
 
 
 
-- 🔭 I’m currently working on Personal Project [Selenium Java: BDD with Cucumber Framework](https://github.com/samiahmadkhan/Sami_SauceDemo_BDD)
+- 🔭 I’m currently working on Android Development of a Music Player App  [Music Player App](https://github.com/samiahmadkhan/AndroidDevelopment_MusicPlayerAPI.git)
 
 - 🌱 I’m currently learning **Appium: IOS and Android Automation**
+- 🌱 I’m currently learning **Android Development**
+
 
 - 👨‍💻 All of my Personal projects are available at [https://github.com/samiahmadkhan?tab=repositories](https://github.com/samiahmadkhan?tab=repositories)
 
